@@ -1,0 +1,11 @@
+text 1
+text 1
+text 1
+text 1
+<<<<<<< HEAD
+text 1
+=======
+
+text 1
+
+>>>>>>> 94ba80b (FolderB change)
